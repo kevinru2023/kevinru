@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Rubio on Kevin Rubio Portfoilio</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Kevin Rubio on Kevin Rubio Portfoilio</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mosaic</title>
+      <link>http://localhost:1313/projects/mosaic/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mosaic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Course REST API</title>
+      <link>http://localhost:1313/projects/course-rest-api/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/course-rest-api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Greeney</title>
+      <link>http://localhost:1313/projects/greeney/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/greeney/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notic3</title>
+      <link>http://localhost:1313/projects/notice/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/notice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beavs Arcade</title>
+      <link>http://localhost:1313/projects/arcade/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/arcade/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hey, I&#39;m Kevin 👋</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
