@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://kevinru2023.github.io/kevinru/sitemap.xml
+Sitemap: http://localhost:1313/kevinru/sitemap.xml

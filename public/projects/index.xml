@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Kevin Rubio Portfoilio</title>
-    <link>https://kevinru2023.github.io/kevinru/projects/</link>
+    <link>http://localhost:1313/kevinru/projects/</link>
     <description>Recent content in Projects on Kevin Rubio Portfoilio</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://kevinru2023.github.io/kevinru/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/kevinru/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mosaic</title>
-      <link>https://kevinru2023.github.io/kevinru/projects/mosaic/</link>
+      <link>http://localhost:1313/kevinru/projects/mosaic/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://kevinru2023.github.io/kevinru/projects/mosaic/</guid>
+      <guid>http://localhost:1313/kevinru/projects/mosaic/</guid>
       <description></description>
     </item>
     <item>
       <title>Course REST API</title>
-      <link>https://kevinru2023.github.io/kevinru/projects/course-rest-api/</link>
+      <link>http://localhost:1313/kevinru/projects/course-rest-api/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://kevinru2023.github.io/kevinru/projects/course-rest-api/</guid>
+      <guid>http://localhost:1313/kevinru/projects/course-rest-api/</guid>
       <description></description>
     </item>
     <item>
       <title>Greeney</title>
-      <link>https://kevinru2023.github.io/kevinru/projects/greeney/</link>
+      <link>http://localhost:1313/kevinru/projects/greeney/</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://kevinru2023.github.io/kevinru/projects/greeney/</guid>
+      <guid>http://localhost:1313/kevinru/projects/greeney/</guid>
       <description></description>
     </item>
     <item>
       <title>Notic3</title>
-      <link>https://kevinru2023.github.io/kevinru/projects/notice/</link>
+      <link>http://localhost:1313/kevinru/projects/notice/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://kevinru2023.github.io/kevinru/projects/notice/</guid>
+      <guid>http://localhost:1313/kevinru/projects/notice/</guid>
       <description></description>
     </item>
     <item>
       <title>Beavs Arcade</title>
-      <link>https://kevinru2023.github.io/kevinru/projects/arcade/</link>
+      <link>http://localhost:1313/kevinru/projects/arcade/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://kevinru2023.github.io/kevinru/projects/arcade/</guid>
+      <guid>http://localhost:1313/kevinru/projects/arcade/</guid>
       <description></description>
     </item>
   </channel>

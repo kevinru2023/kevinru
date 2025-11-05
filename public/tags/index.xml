@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kevin Rubio Portfoilio</title>
-    <link>https://kevinru2023.github.io/kevinru/tags/</link>
+    <link>http://localhost:1313/kevinru/tags/</link>
     <description>Recent content in Tags on Kevin Rubio Portfoilio</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://kevinru2023.github.io/kevinru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/kevinru/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

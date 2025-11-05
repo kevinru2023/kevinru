@@ -3,7 +3,7 @@ title: Hey, I'm Kevin 👋
 layout: "simple"
 ---
 
-![header](/images/about-me-header.JPG)
+![header](images/about-me-header.jpg)
 
 ## Bio
 
