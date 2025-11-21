@@ -77,10 +77,6 @@ fingerprintAlgorithm = "sha256"
   # event = ""
   # script = ""
 
-[services]
-[services.googleAnalytics]
-    id = 'G-BMDTKW1143'
-
 #[umamiAnalytics]
 #  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
 #  region = "eu"  # can be either "eu" or "us"
