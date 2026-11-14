@@ -26,7 +26,9 @@ Other than just CS, I also enjoy hiking, snowboarding, and just being active. I 
 
 ## What's Next
 
-I'm currently working at Oregon State University's Identity Access Management team as a Student Technician providing support to thousands of users each day. During my spare time I am developing little projects or studying up on new topics such as Kernel Development, System Design, and other random topics that scratch my brain.
+This term I'm taking Operating Systems II, Intro to Mathematical Statistics, and Intro to Artificial Intelligence, while also working on my senior capstone project.
+
+I'm also currently working at Oregon State University's Identity Access Management team as a Student Technician providing support to thousands of users each day. During my spare time I am building mobile and web applications that utilize modern AI tools.
 
 I am currently searching for new grad roles. So, if you have any opportunities available I would love to connect. You can reach me at [kevinru2005@gmail.com](mailto:kevinru2005@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/kevin-rubio-851269236/)
 
